@@ -1,0 +1,2 @@
+if account login as recuriter than create company otherwise it will not give company option
+if recuriter or company created a job or create a same job as same company then it will not create company with same name
